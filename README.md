@@ -1,4 +1,5 @@
 # playing-with-ruby-tests
 
-## ruby tests
-### using rubu minitest and rspec
+### ruby tests
+
+#### using ruby minitest and rspec
